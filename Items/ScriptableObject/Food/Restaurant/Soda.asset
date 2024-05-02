@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 664fc6ef05f488f4dadeac2ae998105c, type: 3}
+  m_Name: Soda
+  m_EditorClassIdentifier: 
+  _name: Soda
+  _price: 8000
+  _sprite: {fileID: 21300000, guid: 0860c0bfd878e3b45ada9c904ef935f1, type: 3}
+  _id: SodaID_22
